@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9015a86-3d87-4bb6-ba58-eca9bfd33271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tasks/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.task_2">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AQAYandex\Sprint_2\Tasks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.task_3">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Sprint_2" />
       <option name="ENV_FILES" value="" />
@@ -184,10 +185,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_3" />
         <item itemvalue="Python.task_2" />
         <item itemvalue="Python.task_4" />
         <item itemvalue="Python.task_5" />
-        <item itemvalue="Python.task_3" />
         <item itemvalue="Python.task_1" />
       </list>
     </recent_temporary>
